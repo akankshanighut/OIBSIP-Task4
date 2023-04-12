@@ -1,0 +1,1 @@
+This repository consists of Projects or tasks I have completed during my java developement internship. It has task 4 i.e Online Examination with some Functionlities with the help of java progrmming language.
